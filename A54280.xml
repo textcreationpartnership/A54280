@@ -1,0 +1,559 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Something formerly writ, foreseen and foretold, of what should come to pass, much of it now being fulfilled and fulfilling, is thus collected and presented to the view and consideration of the people called Quakers</title>
+            <author>Pennyman, Mary, 1630-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54280</idno>
+            <idno type="STC">Wing P1429</idno>
+            <idno type="STC">ESTC R30099</idno>
+            <idno type="EEBO-CITATION">11244128</idno>
+            <idno type="OCLC">ocm 11244128</idno>
+            <idno type="VID">47081</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47081)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1448:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Something formerly writ, foreseen and foretold, of what should come to pass, much of it now being fulfilled and fulfilling, is thus collected and presented to the view and consideration of the people called Quakers</title>
+                  <author>Pennyman, Mary, 1630-1701.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] printed :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: M.P.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:47081:1"/>
+            <pb n="1" facs="tcp:47081:1" rendition="simple:additions"/>
+            <head>Something formerly writ, foreſeen and foretold, of what
+ſhould come to paſs; much of it now being fulfil<g ref="char:EOLhyphen"/>led and fulfilling, is
+thus collected, and preſented to the view and conſideration of the People
+called <hi>QUAKERS.</hi>
+            </head>
+            <div type="preface">
+               <head>Let him that readeth underſtand, but the uncircumciſed in
+Heart and Ears cannot.</head>
+               <p>FRiends, Theſe things following were writ to Others, but being
+clearly ſeen how deeply they now concern You, they are thus directed; that
+you may be inſtructed thereby, that you may hear, and fear, and truly
+deſire to have all Fleſh abaſed, and the Lord alone magnified, ſought
+after, and joyn'd unto, by every one that takes his Name into their Mouths:
+what he hath determined muſt ſtand, and the Word which he ſpake by his
+Prophet of old muſt be fulfilled, <hi>viz. I will bring a Plague upon this
+People, even the fruits of their own Imaginations.</hi> Jer. 6.19.</p>
+               <p>Did not ſome in days paſt, cauſe the very Offering of the
+Lord to be abhorred? and is it not ſo now? yet, who laments or lays it to
+heart? where's the Man that's truly wiſe? that loves Reproof, hates
+Hypo<g ref="char:EOLhyphen"/>criſie, and deſires to have all things appear juſt as they are?
+delights not in the praiſe of Men, neither can glory in multitudes, but in
+Him only, who juſtifies in ſecret; that cannot feed upon, or be ſatisfied
+with any thing that muſt come to an end, tho it appear with ever ſo ſair
+an outſide?</p>
+               <p>From what is writ ſome good may be gain'd to the upright and
+ho<g ref="char:EOLhyphen"/>neſt mind, tho it ſeem like putting to open ſhame. If it might have
+been forborn, it had not come forth, having lain by ſeveral Months, not
+daring to publiſh it, till its appointed Seaſon: There ſeems to be little
+of Mans wiſdom in it, but a mind that loved Righteouſneſs, hated Deceit,
+and eſteemed of no People for their outward Profeſſion: Let the anſwer
+to it (of every upright heart) be, <hi>Search me, O Lord, and try me; ſhew me
+what is amiſs in thy ſight: for whom have I in Hea<g ref="char:EOLhyphen"/>ven or Earth beſides
+thee? or what do I deſire in compariſon of thee?</hi>
+               </p>
+               <closer>
+                  <signed>M. P.</signed>
+               </closer>
+            </div>
+            <div type="prophecy">
+               <pb n="2" facs="tcp:47081:2"/>
+               <head>Something formerly writ, <hi>&amp;c.</hi>
+               </head>
+               <p>
+                  <note place="margin">
+                     <hi>A Teſti<g ref="char:EOLhyphen"/>mony of</hi> W. E. <hi>&amp;c.
+Pag. 96.</hi>
+                  </note>MY rejoycing is, to behold darkneſs and ruine upon all
+fleſhly Gloryings, and former Excellencies, wherein ſo many vain
+boaſtings have appeared.</p>
+               <p>Now God is pouring Vials of Wrath on that which once was lovely.
+
+<note place="margin">
+                     <hi>p.</hi> 74.</note>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 77.</note>All the Churches indeed
+ſhall fall, but the Saints therein ſhall riſe: This the Lord would have
+them know this day,
+<note place="margin">
+                     <hi>p.</hi> 78.</note> altho they will not,
+that they are all in <hi>Babylon,</hi> dead dry bones and divided ſticks,
+dead in their <hi>Forms,</hi> divided in their <hi>Fellowſhips,</hi> and
+defiled in both.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 82.</note>Of old the People of
+God were in <hi>Babylon,</hi> but now <hi>Babylon</hi> is in them, eſpecially
+in the Churches.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 69.</note>Their
+Church-<hi>Fellowſhips</hi> and <hi>Forms</hi> is that they glory in: God
+ſpoils them, and ſtains the pride of all their glory, —who becauſe
+they would not wait for the Spirit to build them up, as the Primitive Saints
+did, the Spirit ſhall come to burn and conſume them at laſt.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 35.</note>God who will not abide
+for ever in any <hi>Form,</hi> — is at laſt weary with forbearing.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 133.</note>The pureſt
+<hi>Forms</hi> of Religion this day, are but the old Religion in a new
+dreſs.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 17.</note>Never ſhall the
+Saints unite and come to one in love, till wrath be poured forth on all their
+<hi>Forms.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 55.</note>The Spirits preſence
+was more waited on, and the Saints far more ſpiritual before their
+Church-Fellowſhip; more ſimple-hearted, ſin<g ref="char:EOLhyphen"/>cere, ſelf-denying and
+dying to the World.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 178.</note>As the Myſtery of
+Iniquity did firſt begin to work in the Primitive pureſt Churches: So in
+the pureſt Churches, the Myſtery of Iniquity and Man of ſin ſhall be
+laſt revealed.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 179.</note>We have lookt upon
+Antichriſt once at <hi>Rome,</hi> but of late we have ſeen him in
+<hi>Reformed Churches,</hi>— God may ſhew them the Myſtery of
+Iniquity among themſelves very ſhortly. —They ſhall find ſuch an
+Apoſtacy and falling away in themſelves,—that they ſhall not need
+to go far to find the Man of ſin.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 163.</note>Our firſt
+ſcattering was by coming into gathered Churches; by look<g ref="char:EOLhyphen"/>ing on
+<hi>Forms,</hi> we loſt the <hi>Spirit</hi> and <hi>Power</hi> of
+Godlineſs; here we are ſcattered again, leſs Godlineſs appearing then
+was in us before. Well! God will yet gather us again up to Himſelf; which
+appearing in us with power and glory, will manifeſt to the World, who our
+Paſtor is, even he who keeps us as a Shepherd doth his flock.</p>
+               <pb n="3" facs="tcp:47081:2"/>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 269.</note>The Apoſtate-Church
+which ſeems to be the Spouſe of Chriſt, and one fleſh with God in her,
+her Head and Husband, but joyning with Man, and with <hi>Forms</hi> invented by
+Man, cleaving to the Traditions and Teachings of Man, to the Wiſdom and Power
+of Man; the Spouſe becomes an Harlot.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 245.</note>Your
+Church-Fellowſhip is at an end with God; tho ſome men ſee ſomewhat in
+it, yet 'tis but a dead Carcaſs they look upon;—but the Spirit, Life,
+and Power from on high appears not at all to me (therein) nor to many.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 91.</note>Truly in all that I
+have ſaid, I do not condemn the generation of the Righteous, but the
+generation of Vipers, who under <hi>Forms</hi> of Reli<g ref="char:EOLhyphen"/>gion, eat up their
+Mothers bowels, even the power of Righteouſneſs.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 154.</note>God will gather a
+remnant out of the Churches, tho moſt of them periſh with their Paſtors;
+— God, I ſay, will bring them again to their folds, to their
+ſpiritual communion with the Father and the Son, and they ſhall be fruitful
+and increaſe in all the fruits of the Spirit.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 199.</note>The Promiſe of the
+Father and Power from on high, or Baptiſm of the Spirit, being only that
+which conſtituted a Goſpel-Church, and made Miniſters of the Goſpel; to
+go forth without this, is not only to deceive Men, but to deny God, to crucifie
+Chriſt, to ſtifle the Spi<g ref="char:EOLhyphen"/>rit, and to ſtrangle the Babe, even the
+new-born Glory beginning to riſe in the Saints of the moſt High.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 262.</note>It is an uſual
+Artifice of Satan in all Ages, to ſet up the Letter of a thing, againſt the
+Truth and Power of it; yea, no oppoſition ſo fierce, as that which is
+manag'd by the Man of <hi>Form,</hi> againſt the true ſpiritual
+worſhipper.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 129.</note>The People of God
+(ſo call'd) were as Children, they are now Men; they were ſimple, now
+ſubtile; they were ſelf-denying, now ſcrape up all to themſelves; they
+were dying to the world, now living wholly to the world and worldly honours;
+they were content to be poor, now all muſt be rich.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 125.</note> I will not now
+ſpeak of their Oppreſſion, Pride, Cruelty, Cove<g ref="char:EOLhyphen"/>touſneſs, their
+cunning deſigns, and cover'd deſires of preferment, profit, pleaſure,
+their eartlhy-mindedneſs all the day long.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 62.</note>This they will not
+ſee, but God does, and men ſhall, when he ſhall turn their inſide out,
+their hidden Hypocriſie ſhall appear to all; for they ſhall openly
+practiſe Hypocriſie, as men do groſs profaneneſs.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 171.</note>Let their
+<hi>(own)</hi> conſciences ſpeak, if they are not more departed from God,
+and from the Power of Godlineſs, which formerly appeared in them, and from
+that dependance on God alone, then when all men and Magiſtrates were
+againſt them.</p>
+               <pb n="4" facs="tcp:47081:3"/>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 237.</note>There's no building of
+Temples in <hi>Babylon,</hi> nor joyning there in Church-Fellowſhip, for that
+will fall and we with it, till we retire alone into our ſelves, or the Spirit
+rather in us, and this muſt be every Man apart by himſelf, every Family
+apart,—when the Spirit of Grace and Supplication begins to appear to take
+us up into Glory.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 45.</note>The Spirit of Prayer in
+Goſpel-times, was more in <hi>Spirit,</hi> leſs in <hi>Form.</hi>
+               </p>
+               <p>C<note place="margin">
+                     <hi>p.</hi> 195.</note>hriſt and his
+Apoſtles went forth in their publick Speakings or Preachings, without any
+<hi>Forms</hi> of prayer, before or after. —Prayer is a more ſpiritual
+and ſecret thing, in the ſpirits of the Saints, then is commonly
+underſtood by Men, or Miniſters.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 144.</note>The coming of
+Chriſt, and his ſecond appearance in us, will not be in any particular
+<hi>Form</hi> of Religion, or private Opinion of Man, but in the <hi>Power</hi>
+of Righteouſneſs.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 249.</note>As the firſt ſhall
+be laſt; ſo He who is the laſt and the firſt is now be<g ref="char:EOLhyphen"/>ginning to
+appear, not only in the ſcattered Saints and againſt the ga<g ref="char:EOLhyphen"/>ther'd
+Churches, but to gather up into Himſelf: this is my hope and joy.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 253.</note>Many Nations ſhall
+be ſaved or joyned to the Lord; not to a Church, but to the Lord; not in any
+particular <hi>Form</hi> of Religion, but in the <hi>Power</hi> of
+Righteouſneſs.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 167.</note>As the ſpirit of
+Antichriſt has been moſt diſcover'd in this Nation, above all Nations;
+ſo the wickedneſs of <hi>(thoſe called)</hi> the People of God, will
+appear here to all the World.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 57.</note>'Tis far from my temper
+to reproach any <hi>(of them;)</hi> but if God ſhall give them to the
+reproach and the curſe, what man can help it.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 201.</note>Ah bleſſed God!
+how are Men diſcover'd this day? ſure 'tis the day of God, becauſe it is
+the diſcovery of Man, to make all Fleſh bare be<g ref="char:EOLhyphen"/>fore Him, and the
+goodlineſs thereof to wither alſo.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 130.</note>'Tis the way of God to
+ſettle Men, then to ſhake them; to ſet them up on high, then to caſt
+them down, as he did <hi>Pharaoh</hi> and his Hoſt.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 233.</note>The greateſt work
+that God hath to do with You this day, is to make you ſee, you are dead,
+that's the end why He doth daſh, and di<g ref="char:EOLhyphen"/>vide you; — I know you are
+ſhaking already, and 'tis a mercy to you that God will diſquiet the
+Inhabitants of <hi>Babylon,</hi> that You ſhall have no reſt till you
+return.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 233.</note>The living God knows
+that all I have written, or ſhall, is not inten<g ref="char:EOLhyphen"/>ded by me to trouble your
+walkings, but to give you reſt in the Lord alone at laſt; not meerly to
+throw down your Churches, or for your Fall, but to raiſe you up, that we may
+live together with God in Chriſt.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 247.</note>Seeing the Spirit
+ſhall again be poured forth from on High, let us wait for this together: tho
+our Palaces be forſaken, tho our Church-Fellowſhips fall, for ſo it will
+be before the Spirit come.</p>
+               <pb n="5" facs="tcp:47081:3"/>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 145.</note>The everlaſting
+Goſpel at laſt, ſhall not be in words, or ſpeakings,
+<note place="margin">
+                     <hi>p.</hi> 88.</note> but in the righteous
+actings of men, the righteouſneſs of Saints.— Which will ſooner
+convince, quiet, and call the World, then all their Religious <hi>Forms,</hi>
+or ſhews of Holineſs.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 73.</note>We ſhall be all
+ſilent, and God himſelf ſhall ſpeak at laſt, and mani<g ref="char:EOLhyphen"/>feſt
+Himſelf unto men; Oh that men could watch and wait together in love, till
+that day.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 292.</note>The diſcoveries of
+God in the Saints, in the latter days, ſhall take off the yoke from off their
+necks, and the burden from off their ſhoulders; that Saints ſhall be no
+more embondaged to fleſhly Forms, nor burden<g ref="char:EOLhyphen"/>ed with carnal Ordinances, nor
+yoked to Church-fellowſhips any more.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 115.</note>The Beaſts of the
+Field, even Dragons, and Owls, ſhall honour Him, when <hi>Jacob</hi> ſhall
+be given to the Curſe, and <hi>Iſrael</hi> to Reproaches.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 74.</note>The Man of ſin, the
+Myſtery of Iniquity, is now more revealed in the Temple of God than ever.
+<note n="*" place="margin">
+                     <hi>p.</hi> 173.</note> I will not ſay
+much on this, be<g ref="char:EOLhyphen"/>cauſe all men will ſhortly ſee, more then I ſay.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 315.</note>This—is not out
+of bitterneſs againſt any mans perſon, (for I am one with all the Saints
+in love) but out of Conſcience, and real con<g ref="char:EOLhyphen"/>viction of the error of their
+ways and worſhips; hoping that the Fire of the Lord will burn up their Hay
+and Stubble, will both purifie their Gold, and ſave their Perſons; that
+ſo they may ariſe more glo<g ref="char:EOLhyphen"/>rious in the Truth and Power of Religion, then
+ever they ſeem'd to be in the outward appearance.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 97.</note>Oh the Dead! it's they
+only that ſhall live, the Blind only ſhall ſee, the Deaf they ſhall
+hear, and the Dumb men they ſhall ſing the Lords Song, in the <hi>inward
+World</hi> with the holy Ones.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 336.</note>The Lord God is coming
+forth in Judgment, to turn the Earth upſide down, and to turn mans inſide
+out, that the cloſe Hypocriſie of their hearts may appear, and Hypocrites
+pointed at as they go along the Streets, and mens ſpirits made viſible with
+their bodies, their ſecret ſins ſtare out, as open profaneneſs; and tho
+men may think it much to have their names and notorious evils publiſhed, let
+theſe know that better Saints than themſelves, their ſins, and ſlips,
+are read every day in the Week, and upon record to all Ages. The days are at
+hand when every mans wickedneſs ſhall be written in his Forehead as with a
+Beam of the Sun, and they that forſake the Lord ſhall be written in the
+Earth.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 316.</note>A thouſand
+reproaches I take up as a Crown on my head, and go on in the name of the Lord
+with love to Truth and Peace. And I truſt it will appear in time, that I am
+no Apoſtate; — tho I am not ſo much in the obſervation of ſome
+<hi>outward Forms</hi> of Religion, as formerly I have been, and as ſome now
+apprehend it their duty to be; yet I deſire to be more in the <hi>Truth</hi>
+and <hi>Power</hi> of Godlineſs, <hi>&amp;c.</hi> and in works of
+Righteouſneſs, Judgment, and Mercy among men; and if this be Apoſtacy, I
+ſhall be content to be accounted ſo, and to be yet more vile then thus.</p>
+               <pb n="6" facs="tcp:47081:4"/>
+               <p>WHat ſorrow and lamentation can ſufficiently be taken up for
+the people of this Nation, becauſe of the ſins that abound in them!
+PROFANENESS on the one hand, and HYPOCRISIE on the other, cauſeth ſome to
+ſuffer this day.</p>
+            </div>
+            <div type="excerpt_of_account">
+               <head>Here follows ſomething of the Account which every good
+Steward ought to give to his Maker; taken out of a Book lately printed,
+Entituled, <hi>Contemplations,</hi> &amp;c. Let all exa<g ref="char:EOLhyphen"/>mine themſelves
+thereby.</head>
+               <p>
+                  <note place="margin">
+                     <hi>Pag.</hi> 422. &amp;c.</note>I Have been
+very diligent to keep my Conſcience clean, to encou<g ref="char:EOLhyphen"/>rage it in the
+Vicegerency that Thou haſt given it over my ſoul and actions. I have kept
+it in the Throne, and greateſt Reverence and Authority in my heart.</p>
+               <p>In actions to be done or omitted I have always adviſed with
+it, and taken its advice: I have neither ſtifled, nor forced, nor bribed it;
+but gave it free liberty to adviſe and ſpeak out, and a free ſubjection
+of my will, purpoſes, and actions to it.</p>
+               <p>If through inadvertency of mind, or importunity of temptations,
+<hi>&amp;c.</hi> I have at any time done amiſs, I have not taken her up
+ſhort, or ſtop<g ref="char:EOLhyphen"/>ped her mouth, or my own attention to her chiding and
+reproof; but I have with much ſubmiſſion of mind born her
+chaſtiſement, and im<g ref="char:EOLhyphen"/>proved it to an humbling of my ſelf before Thee for
+my failings; for I looked upon her as acting by Thy Authority, for Thy Service,
+and to Thy Glory; and I durſt not diſcourage, diſcountenance, or
+diſobey her.</p>
+               <p>When ſhe was pleaſed and gave me good words, I was glad, for
+I eſteemed her as a glaſs that repreſented to my ſoul the favour or
+diſ<g ref="char:EOLhyphen"/>pleaſure of God himſelf; and how He ſtood affected towards me.</p>
+               <p>I have more trembled under the fear of a ſear'd or
+diſcourag'd Con<g ref="char:EOLhyphen"/>ſcience, then under the fear of a ſharp or ſcupulous
+Conſcience; be<g ref="char:EOLhyphen"/>cauſe I always counted the latter, tho more troubleſome,
+yet more ſafe.</p>
+               <p>I have been very jealous, either of wounding, or grieving, or
+diſ<g ref="char:EOLhyphen"/>couraging, or deading my Conſcience: I have therefore choſen rather
+to forbear that which ſeemed but indifferent, leſt there ſhould be
+ſome<g ref="char:EOLhyphen"/>what in it that might be unlawful; I would rather gratifie my
+Con<g ref="char:EOLhyphen"/>ſcience with being too ſcrupulous, then diſpleaſe, diſquiet, or
+flat it, by being too venturous: I have ſtill choſen rather to forbear what
+might be probably lawful, then to do that which might be poſſibly unlawful;
+becauſe I could not err in the former, I might in the latter.
+<pb n="7" facs="tcp:47081:4"/>If things were diſputable whether they might be done, I
+rather choſe to forbear, becauſe the lawfulneſs of my forbearance was
+unqueſtionable.</p>
+               <p>As I have been careful to adviſe impartially with my
+Conſcience before my actions; ſo leſt through Inadvertency, Incogitancy,
+or ſud<g ref="char:EOLhyphen"/>den Immergencies I had committed any thing amiſs, in the nature or
+manner of the action, I commonly every night brought my actions of the day
+paſt before the Judicatory of my Conſcience, and left her to a free and
+impartial cenſure of them; and what ſhe ſentenced well done, I with
+humility returned the praiſe thereof to Thy Name; what ſhe ſentenced done
+amiſs, I did humbly ſue to Thee for pardon, and for Grace to prevent me
+from the like miſcarriages. By this means I kept my Conſcience active,
+renewed and preſerved my peace with Thee, and learned vigilance and caution
+for the time to come.</p>
+            </div>
+            <div type="admonition">
+               <head>It's time for every one who ſees a blaſting come upon all
+Fleſh, to return to that wherein Subſtance (inſtead of Shadows) may be
+enjoyed, and there<g ref="char:EOLhyphen"/>fore is this following ſet down. </head>
+               <p>
+                  <note place="margin">
+                     <hi>Chriſtians Pattern. Pag.</hi>
+130.</note>I Will hear what the Lord God will ſpeak in me: Bleſſed is
+that ſoul that heareth the Lord ſpeaking in her, and receiveth from His
+Mouth the Word of Comfort. Bleſſed are thoſe Ears that hearken only to
+the Divine Voice, and liſten not to the whiſperings of the World.
+Bleſſed indeed are thoſe Ears that hearken not to the Voice that
+ſoundeth outwardly, but unto the Truth which teacheth in<g ref="char:EOLhyphen"/>wardly.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 89.</note>He that can live
+inwardly, and make ſmall reckoning of outward things, neither requireth
+<hi>Places,</hi> nor attendeth <hi>Times,</hi> for performing of Religious
+Exerciſes.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 101.</note>To walk inwardly with
+God—is the ſtate of a Spiritual man. </p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 50.</note>He therefore that
+intends to attain to the more inward and Spiritual things of Religion, muſt
+with Jeſus depart from the multitude and preſs of people.</p>
+               <p>
+                  <note place="margin">
+                     <hi>p.</hi> 5.</note>Many words do not
+ſatisfy the Soul; but a good life comforteth the mind, and a pure
+Conſcience giveth great aſſurance in the ſight of God.</p>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Year 1676.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
